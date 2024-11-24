@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0066-plus-one) |
 ## Two Pointers
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
