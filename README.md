@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0066-plus-one) |
+| [3221-find-the-peaks](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/3221-find-the-peaks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0035-search-insert-position) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
