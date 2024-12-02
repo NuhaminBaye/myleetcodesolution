@@ -22,6 +22,7 @@
 | [0009-palindrome-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0258-add-digits) |
 ## String
 |  |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/3221-find-the-peaks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
