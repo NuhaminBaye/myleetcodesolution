@@ -24,6 +24,7 @@
 | [0069-sqrtx](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -57,4 +58,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
