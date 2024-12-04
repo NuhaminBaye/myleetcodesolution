@@ -1,8 +1,4 @@
 class Solution:
     def isPowerOfThree(self, n: int) -> bool:
-        x = 0
-        while (3 ** x) <= n:
-            if n == 3 ** x:
-                return True
-            x += 1
-        return False
+        mx = 3**19
+        return n>0 and mx%n==0
