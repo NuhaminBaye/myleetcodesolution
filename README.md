@@ -28,6 +28,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0345-reverse-vowels-of-a-string) |
 ## Simulation
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0021-merge-two-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
