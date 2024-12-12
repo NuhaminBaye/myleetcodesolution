@@ -9,12 +9,14 @@
 | [0027-remove-element](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0088-merge-sorted-array) |
 | [3221-find-the-peaks](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/3221-find-the-peaks) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0345-reverse-vowels-of-a-string) |
 ## Math
 |  |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
