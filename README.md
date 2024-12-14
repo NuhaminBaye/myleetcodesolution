@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0136-single-number) |
 | [3221-find-the-peaks](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/3221-find-the-peaks) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
