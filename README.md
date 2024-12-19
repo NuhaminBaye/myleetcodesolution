@@ -40,6 +40,7 @@
 | [0020-valid-parentheses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0345-reverse-vowels-of-a-string) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0001-two-sum](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0202-happy-number) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,4 +94,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
