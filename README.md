@@ -32,6 +32,7 @@
 | [0258-add-digits](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0342-power-of-four) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0020-valid-parentheses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0345-reverse-vowels-of-a-string) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Simulation
 |  |
@@ -97,6 +99,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
