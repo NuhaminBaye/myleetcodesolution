@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0136-single-number) |
+| [0605-can-place-flowers](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0605-can-place-flowers) |
 | [3221-find-the-peaks](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/3221-find-the-peaks) |
 ## Two Pointers
 |  |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [1873-longest-nice-substring](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1873-longest-nice-substring) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
