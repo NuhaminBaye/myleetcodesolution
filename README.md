@@ -121,4 +121,16 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0605-can-place-flowers) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
