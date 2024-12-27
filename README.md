@@ -13,6 +13,7 @@
 | [0136-single-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0136-single-number) |
 | [0605-can-place-flowers](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0792-binary-search) |
+| [0965-unique-email-addresses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0965-unique-email-addresses) |
 | [3221-find-the-peaks](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/3221-find-the-peaks) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0742-to-lower-case](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0742-to-lower-case) |
 | [0953-reverse-only-letters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0953-reverse-only-letters) |
+| [0965-unique-email-addresses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0965-unique-email-addresses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -63,6 +65,7 @@
 | [0001-two-sum](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0202-happy-number) |
+| [0965-unique-email-addresses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0965-unique-email-addresses) |
 | [1873-longest-nice-substring](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
