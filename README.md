@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0342-power-of-four) |
 | [1873-longest-nice-substring](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1873-longest-nice-substring) |
@@ -124,6 +125,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0190-reverse-bits) |
 | [1873-longest-nice-substring](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1873-longest-nice-substring) |
 ## Greedy
 |  |
