@@ -31,6 +31,7 @@
 | [0009-palindrome-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0231-power-of-two) |
@@ -45,6 +46,7 @@
 | [0014-longest-common-prefix](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0742-to-lower-case](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0742-to-lower-case) |
@@ -56,6 +58,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -83,6 +86,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0231-power-of-two) |
