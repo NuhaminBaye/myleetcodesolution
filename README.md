@@ -16,6 +16,7 @@
 | [0792-binary-search](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0792-binary-search) |
 | [0965-unique-email-addresses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0965-unique-email-addresses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1370-count-number-of-nice-subarrays) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3221-find-the-peaks](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/3221-find-the-peaks) |
 ## Two Pointers
 |  |
@@ -129,6 +130,7 @@
 | [1430-find-the-k-beauty-of-a-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Counting
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0969-number-of-recent-calls) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Data Stream
 |  |
 | ------- |
@@ -174,4 +177,8 @@
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1370-count-number-of-nice-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
