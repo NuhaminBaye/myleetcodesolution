@@ -128,6 +128,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0094-binary-tree-inorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -166,11 +167,13 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
@@ -181,6 +184,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0226-invert-binary-tree) |
 ## Prefix Sum
