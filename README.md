@@ -38,6 +38,7 @@
 | [0066-plus-one](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0258-add-digits) |
@@ -211,4 +212,12 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0304-range-sum-query-2d-immutable) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
