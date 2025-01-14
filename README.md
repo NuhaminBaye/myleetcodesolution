@@ -17,6 +17,7 @@
 | [0792-binary-search](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0792-binary-search) |
 | [0965-unique-email-addresses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0965-unique-email-addresses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1370-count-number-of-nice-subarrays) |
+| [2102-find-the-middle-index-in-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/2102-find-the-middle-index-in-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3221-find-the-peaks](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/3221-find-the-peaks) |
 ## Two Pointers
@@ -208,6 +209,7 @@
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0304-range-sum-query-2d-immutable) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1370-count-number-of-nice-subarrays) |
+| [2102-find-the-middle-index-in-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/2102-find-the-middle-index-in-array) |
 ## Monotonic Queue
 |  |
 | ------- |
