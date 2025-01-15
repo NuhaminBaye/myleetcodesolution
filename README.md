@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0136-single-number) |
 | [0303-range-sum-query-immutable](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0304-range-sum-query-2d-immutable) |
@@ -225,6 +226,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0119-pascals-triangle-ii) |
 ## Memoization
 |  |
 | ------- |
