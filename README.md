@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0136-single-number) |
 | [0303-range-sum-query-immutable](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0303-range-sum-query-immutable) |
@@ -148,6 +149,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0190-reverse-bits) |
 | [1873-longest-nice-substring](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1873-longest-nice-substring) |
 ## Greedy
@@ -176,6 +178,7 @@
 | [0100-same-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0226-invert-binary-tree) |
@@ -204,6 +207,7 @@
 | [0100-same-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0226-invert-binary-tree) |
@@ -231,4 +235,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0070-climbing-stairs) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
