@@ -54,6 +54,7 @@
 | [0258-add-digits](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0415-add-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## String
@@ -68,6 +69,7 @@
 | [0125-valid-palindrome](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0742-to-lower-case) |
 | [0953-reverse-only-letters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0953-reverse-only-letters) |
 | [0965-unique-email-addresses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0965-unique-email-addresses) |
@@ -79,6 +81,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
