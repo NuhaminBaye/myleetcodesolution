@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0018-4sum) |
@@ -102,6 +103,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0792-binary-search) |
@@ -167,6 +169,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0190-reverse-bits) |
 | [1873-longest-nice-substring](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1873-longest-nice-substring) |
