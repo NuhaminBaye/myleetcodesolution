@@ -21,6 +21,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0605-can-place-flowers](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0898-transpose-matrix) |
 | [0965-unique-email-addresses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0965-unique-email-addresses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1370-count-number-of-nice-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/2102-find-the-middle-index-in-array) |
@@ -87,6 +88,7 @@
 | [0067-add-binary](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0415-add-strings) |
+| [0898-transpose-matrix](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0898-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -258,6 +260,7 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0898-transpose-matrix](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0898-transpose-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
