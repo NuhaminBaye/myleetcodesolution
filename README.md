@@ -275,4 +275,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
