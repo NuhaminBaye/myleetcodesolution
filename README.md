@@ -61,6 +61,7 @@
 | [0326-power-of-three](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0415-add-strings) |
+| [0866-rectangle-overlap](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0866-rectangle-overlap) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## String
@@ -290,4 +291,8 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0182-duplicate-emails) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
