@@ -16,6 +16,7 @@
 | [0088-merge-sorted-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0136-single-number) |
 | [0303-range-sum-query-immutable](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0304-range-sum-query-2d-immutable) |
@@ -277,6 +278,7 @@
 | [0005-longest-palindromic-substring](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
