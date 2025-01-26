@@ -63,6 +63,7 @@
 | [0326-power-of-three](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0441-arranging-coins) |
 | [0866-rectangle-overlap](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0866-rectangle-overlap) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -121,6 +122,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0792-binary-search) |
 ## Enumeration
 |  |
