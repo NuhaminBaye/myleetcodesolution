@@ -85,6 +85,7 @@
 | [0742-to-lower-case](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0742-to-lower-case) |
 | [0857-positions-of-large-groups](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0857-positions-of-large-groups) |
 | [0889-buddy-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0889-buddy-strings) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0953-reverse-only-letters) |
 | [0965-unique-email-addresses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0965-unique-email-addresses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -112,6 +113,7 @@
 | [0205-isomorphic-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0205-isomorphic-strings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0889-buddy-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0889-buddy-strings) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0965-unique-email-addresses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1873-longest-nice-substring](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1873-longest-nice-substring) |
@@ -184,6 +186,7 @@
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
