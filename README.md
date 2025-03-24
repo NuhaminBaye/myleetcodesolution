@@ -87,6 +87,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0459-repeated-substring-pattern) |
 | [0742-to-lower-case](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0742-to-lower-case) |
 | [0857-positions-of-large-groups](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0857-positions-of-large-groups) |
 | [0889-buddy-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0889-buddy-strings) |
@@ -326,4 +327,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0017-letter-combinations-of-a-phone-number) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
