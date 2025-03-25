@@ -86,6 +86,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0067-add-binary) |
