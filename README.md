@@ -85,6 +85,7 @@
 | [0014-longest-common-prefix](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0067-add-binary) |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0155-min-stack) |
@@ -318,6 +320,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0119-pascals-triangle-ii) |
