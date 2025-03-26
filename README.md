@@ -27,6 +27,7 @@
 | [0496-next-greater-element-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0941-sort-array-by-parity) |
@@ -236,6 +237,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0890-lemonade-change) |
 ## Design
 |  |
 | ------- |
