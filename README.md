@@ -24,6 +24,7 @@
 | [0136-single-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0136-single-number) |
 | [0303-range-sum-query-immutable](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0485-max-consecutive-ones](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0792-binary-search) |
