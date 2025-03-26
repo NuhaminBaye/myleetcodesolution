@@ -24,6 +24,7 @@
 | [0136-single-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0136-single-number) |
 | [0303-range-sum-query-immutable](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0605-can-place-flowers) |
@@ -138,6 +139,7 @@
 | [0141-linked-list-cycle](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0205-isomorphic-strings) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0889-buddy-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0889-buddy-strings) |
