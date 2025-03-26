@@ -28,6 +28,7 @@
 | [0605-can-place-flowers](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0898-transpose-matrix) |
+| [0932-monotonic-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0941-sort-array-by-parity) |
 | [0965-unique-email-addresses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0965-unique-email-addresses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1370-count-number-of-nice-subarrays) |
