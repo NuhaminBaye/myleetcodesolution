@@ -108,6 +108,7 @@
 | [0067-add-binary](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0434-number-of-segments-in-a-string) |
@@ -148,6 +149,7 @@
 | [0202-happy-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -218,6 +220,7 @@
 | [0018-4sum](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0242-valid-anagram) |
 | [0941-sort-array-by-parity](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0941-sort-array-by-parity) |
 ## Stack
 |  |
