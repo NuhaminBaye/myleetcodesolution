@@ -92,6 +92,7 @@
 | [0866-rectangle-overlap](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1279-prime-arrangements](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1279-prime-arrangements) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## String
