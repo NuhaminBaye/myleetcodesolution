@@ -115,6 +115,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0742-to-lower-case) |
