@@ -23,6 +23,7 @@
 | [0119-pascals-triangle-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0303-range-sum-query-immutable) |
@@ -156,6 +157,7 @@
 | [0013-roman-to-integer](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0217-contains-duplicate) |
@@ -234,6 +236,7 @@
 | [0016-3sum-closest](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0242-valid-anagram) |
 | [0941-sort-array-by-parity](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0941-sort-array-by-parity) |
@@ -262,6 +265,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -270,6 +274,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0191-number-of-1-bits) |
 | [1873-longest-nice-substring](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1873-longest-nice-substring) |
