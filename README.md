@@ -38,6 +38,7 @@
 | [0965-unique-email-addresses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0965-unique-email-addresses) |
 | [1217-relative-sort-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1306-minimum-absolute-difference](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1306-minimum-absolute-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1370-count-number-of-nice-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/2102-find-the-middle-index-in-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -232,6 +233,7 @@
 | [0242-valid-anagram](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0242-valid-anagram) |
 | [0941-sort-array-by-parity](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0941-sort-array-by-parity) |
 | [1217-relative-sort-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1217-relative-sort-array) |
+| [1306-minimum-absolute-difference](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1306-minimum-absolute-difference) |
 ## Stack
 |  |
 | ------- |
