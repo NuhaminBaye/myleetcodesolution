@@ -36,6 +36,7 @@
 | [0932-monotonic-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0941-sort-array-by-parity) |
 | [0965-unique-email-addresses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0965-unique-email-addresses) |
+| [1217-relative-sort-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1370-count-number-of-nice-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/2102-find-the-middle-index-in-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -161,6 +162,7 @@
 | [0889-buddy-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0965-unique-email-addresses) |
+| [1217-relative-sort-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1873-longest-nice-substring](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -227,6 +229,7 @@
 | [0217-contains-duplicate](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0242-valid-anagram) |
 | [0941-sort-array-by-parity](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0941-sort-array-by-parity) |
+| [1217-relative-sort-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1217-relative-sort-array) |
 ## Stack
 |  |
 | ------- |
@@ -401,4 +404,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0496-next-greater-element-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
