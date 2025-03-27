@@ -296,6 +296,7 @@
 | [0112-path-sum](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0226-invert-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -310,6 +311,7 @@
 | [0112-path-sum](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0226-invert-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -334,6 +336,7 @@
 | [0112-path-sum](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0226-invert-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0783-search-in-a-binary-search-tree) |
 ## Prefix Sum
@@ -372,6 +375,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0783-search-in-a-binary-search-tree) |
 ## Database
