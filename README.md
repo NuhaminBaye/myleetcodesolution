@@ -66,6 +66,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0953-reverse-only-letters) |
@@ -128,6 +129,7 @@
 | [0680-valid-palindrome-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0742-to-lower-case) |
 | [0857-positions-of-large-groups](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0857-positions-of-large-groups) |
+| [0874-backspace-string-compare](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0953-reverse-only-letters) |
@@ -143,6 +145,7 @@
 | [0067-add-binary](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0415-add-strings) |
+| [0874-backspace-string-compare](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0898-transpose-matrix) |
 ## Number Theory
 |  |
@@ -252,6 +255,7 @@
 | [0155-min-stack](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0496-next-greater-element-i) |
+| [0874-backspace-string-compare](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0874-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
