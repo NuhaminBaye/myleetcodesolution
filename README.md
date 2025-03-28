@@ -342,6 +342,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -359,6 +360,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -389,6 +391,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0783-search-in-a-binary-search-tree) |
 ## Prefix Sum
 |  |
