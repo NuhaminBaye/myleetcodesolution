@@ -37,6 +37,7 @@
 | [0598-range-addition-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0643-maximum-average-subarray-i) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0792-binary-search](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0898-transpose-matrix) |
