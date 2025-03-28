@@ -72,6 +72,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0941-sort-array-by-parity) |
@@ -136,6 +137,7 @@
 | [0551-student-attendance-record-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0742-to-lower-case) |
 | [0857-positions-of-large-groups](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0874-backspace-string-compare) |
