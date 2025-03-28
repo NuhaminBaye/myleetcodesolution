@@ -81,6 +81,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0953-reverse-only-letters) |
+| [0961-long-pressed-name](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0961-long-pressed-name) |
 ## Math
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [0889-buddy-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0953-reverse-only-letters) |
+| [0961-long-pressed-name](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0961-long-pressed-name) |
 | [0965-unique-email-addresses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0965-unique-email-addresses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1430-find-the-k-beauty-of-a-number) |
