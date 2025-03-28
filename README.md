@@ -47,6 +47,7 @@
 | [0898-transpose-matrix](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0941-sort-array-by-parity) |
+| [0944-smallest-range-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0944-smallest-range-i) |
 | [0965-unique-email-addresses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0965-unique-email-addresses) |
 | [1217-relative-sort-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -109,6 +110,7 @@
 | [0598-range-addition-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0598-range-addition-ii) |
 | [0728-self-dividing-numbers](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0728-self-dividing-numbers) |
 | [0866-rectangle-overlap](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0866-rectangle-overlap) |
+| [0944-smallest-range-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1279-prime-arrangements](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1279-prime-arrangements) |
