@@ -103,6 +103,7 @@
 | [0504-base-7](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0598-range-addition-ii) |
+| [0728-self-dividing-numbers](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0728-self-dividing-numbers) |
 | [0866-rectangle-overlap](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1146-greatest-common-divisor-of-strings) |
