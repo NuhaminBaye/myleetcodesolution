@@ -34,6 +34,7 @@
 | [0485-max-consecutive-ones](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0561-array-partition) |
+| [0598-range-addition-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0890-lemonade-change) |
@@ -97,6 +98,7 @@
 | [0492-construct-the-rectangle](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0507-perfect-number) |
+| [0598-range-addition-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0598-range-addition-ii) |
 | [0866-rectangle-overlap](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1146-greatest-common-divisor-of-strings) |
