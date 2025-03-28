@@ -36,6 +36,7 @@
 | [0561-array-partition](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0561-array-partition) |
 | [0598-range-addition-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0898-transpose-matrix) |
@@ -271,6 +272,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0643-maximum-average-subarray-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1873-longest-nice-substring) |
