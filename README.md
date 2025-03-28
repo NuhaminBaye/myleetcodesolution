@@ -427,6 +427,7 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0182-duplicate-emails) |
+| [0627-swap-salary](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0627-swap-salary) |
 ## Geometry
 |  |
 | ------- |
