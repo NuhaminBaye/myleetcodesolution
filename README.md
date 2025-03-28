@@ -38,6 +38,7 @@
 | [0605-can-place-flowers](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0724-find-pivot-index](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0890-lemonade-change) |
@@ -394,6 +395,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0724-find-pivot-index](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0724-find-pivot-index) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1370-count-number-of-nice-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/2102-find-the-middle-index-in-array) |
 ## Monotonic Queue
