@@ -32,6 +32,7 @@
 | [0463-island-perimeter](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0496-next-greater-element-i) |
+| [0561-array-partition](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0890-lemonade-change) |
@@ -243,6 +244,7 @@
 | [0169-majority-element](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0242-valid-anagram) |
+| [0561-array-partition](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0941-sort-array-by-parity) |
 | [1217-relative-sort-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1217-relative-sort-array) |
 | [1306-minimum-absolute-difference](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1306-minimum-absolute-difference) |
@@ -287,6 +289,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0890-lemonade-change) |
@@ -430,6 +433,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0561-array-partition) |
 | [1217-relative-sort-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1217-relative-sort-array) |
 ## Concurrency
 |  |
