@@ -93,6 +93,7 @@
 | [0342-power-of-four](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0507-perfect-number) |
 | [0866-rectangle-overlap](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0866-rectangle-overlap) |
