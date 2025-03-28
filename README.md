@@ -28,6 +28,7 @@
 | [0219-contains-duplicate-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0414-third-maximum-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0485-max-consecutive-ones) |
@@ -246,6 +247,7 @@
 | [0169-majority-element](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0941-sort-array-by-parity) |
 | [1217-relative-sort-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1217-relative-sort-array) |
