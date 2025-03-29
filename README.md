@@ -34,6 +34,7 @@
 | [0485-max-consecutive-ones](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0643-maximum-average-subarray-i) |
@@ -193,6 +194,7 @@
 | [0242-valid-anagram](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0837-most-common-word](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0889-buddy-strings) |
@@ -272,6 +274,7 @@
 | [0242-valid-anagram](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0941-sort-array-by-parity) |
 | [1217-relative-sort-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1217-relative-sort-array) |
@@ -292,6 +295,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0643-maximum-average-subarray-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -302,6 +306,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1227-number-of-equivalent-domino-pairs) |
