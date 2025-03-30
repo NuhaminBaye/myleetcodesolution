@@ -51,6 +51,7 @@
 | [0941-sort-array-by-parity](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0944-smallest-range-i) |
 | [0965-unique-email-addresses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0965-unique-email-addresses) |
+| [1019-squares-of-a-sorted-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1306-minimum-absolute-difference](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1306-minimum-absolute-difference) |
@@ -85,6 +86,7 @@
 | [0941-sort-array-by-parity](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0961-long-pressed-name) |
+| [1019-squares-of-a-sorted-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -279,6 +281,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1217-relative-sort-array) |
 | [1306-minimum-absolute-difference](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1306-minimum-absolute-difference) |
 ## Stack
