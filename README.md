@@ -53,6 +53,7 @@
 | [0965-unique-email-addresses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1031-add-to-array-form-of-integer) |
+| [1044-find-common-characters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1306-minimum-absolute-difference](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1306-minimum-absolute-difference) |
@@ -165,6 +166,7 @@
 | [0953-reverse-only-letters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0961-long-pressed-name) |
 | [0965-unique-email-addresses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0965-unique-email-addresses) |
+| [1044-find-common-characters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1873-longest-nice-substring) |
@@ -208,6 +210,7 @@
 | [0889-buddy-strings](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/0965-unique-email-addresses) |
+| [1044-find-common-characters](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NuhaminBaye/myleetcodesolution/tree/master/1370-count-number-of-nice-subarrays) |
